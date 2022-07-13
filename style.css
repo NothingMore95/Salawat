@@ -1,0 +1,79 @@
+.cnopka {
+    width: 140px;
+    height: 60px;
+    background-color: #000;
+    border-radius: 30px;
+    color:rgb(255, 255, 255);
+    font-size: 17px;
+    
+    
+}
+.cnopka:hover {
+    animation-name:dizayn;
+    animation-duration:1s;
+}
+
+
+
+
+@keyframes dizayn {
+    0% {
+        width: 140px;
+        height: 60px;
+        background-color: #000;
+        border-radius: 30px;
+        color:rgb(255, 255, 255);
+    }
+
+50% {
+box-shadow: 4px 4px 4px 4px rgba(54, 52, 52, 0.787);
+
+}
+
+100% {
+    width: 140px;
+    height: 60px;
+    background-color: #000;
+    border-radius: 30px;
+    color:rgb(255, 255, 255);
+
+}
+
+
+
+
+
+
+}
+
+
+
+.cno {
+ text-align: center;
+}
+
+.text {
+    text-align: center;
+ padding-top: 17%;
+}
+
+p {
+font-size: 30px;
+font-weight: 600;
+}
+
+body {
+    background: url(https://img.freepik.com/free-vector/eid-mubarak-background-with-mosque-design_1017-31360.jpg?w=2000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
